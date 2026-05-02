@@ -6,4 +6,4 @@ jobs:
     steps:
       - name: my-step
         run: echo "Hello world"
-        run: echo "Slitta Maria Joseph"
+             echo "Slitta Maria Joseph"
